@@ -1,4 +1,4 @@
 
-const config = { backendEndpoint: "http://127.0.0.1:8082" };
+const config = { backendEndpoint: "https://kaustubh-raghav-dynamic-travel-website.onrender.com" };
 
 export default config;
